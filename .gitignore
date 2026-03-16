@@ -17,6 +17,12 @@ buildNumber.properties
 *.swo
 *~
 
+# Sample data
+sample/
+
+# Decomposed output (local parse results)
+output/
+
 # OS
 .DS_Store
 Thumbs.db
